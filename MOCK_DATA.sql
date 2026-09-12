@@ -1,0 +1,10 @@
+insert into MOCK_DATA (id, country, `country code`, email, currency, `currency code`) values (1, 'Poland', 'PL', 'aidney0@wisc.edu', 'Zloty', 'IR');
+insert into MOCK_DATA (id, country, `country code`, email, currency, `currency code`) values (2, 'United States', 'US', 'jarons1@exblog.jp', 'Dollar', 'MU');
+insert into MOCK_DATA (id, country, `country code`, email, currency, `currency code`) values (3, 'Russia', 'RU', 'dkeary2@msn.com', 'Ruble', 'RU');
+insert into MOCK_DATA (id, country, `country code`, email, currency, `currency code`) values (4, 'Japan', 'JP', 'lclowes3@nasa.gov', 'Yen', 'PT');
+insert into MOCK_DATA (id, country, `country code`, email, currency, `currency code`) values (5, 'China', 'CN', 'nmatanin4@examiner.com', 'Yuan Renminbi', 'BR');
+insert into MOCK_DATA (id, country, `country code`, email, currency, `currency code`) values (6, 'Ukraine', 'UA', 'pdaborne5@intel.com', 'Hryvnia', 'US');
+insert into MOCK_DATA (id, country, `country code`, email, currency, `currency code`) values (7, 'Guatemala', 'GT', 'amackrill6@seattletimes.com', 'Quetzal', 'KE');
+insert into MOCK_DATA (id, country, `country code`, email, currency, `currency code`) values (8, 'Indonesia', 'ID', 'jedmonstone7@state.gov', 'Rupiah', 'CZ');
+insert into MOCK_DATA (id, country, `country code`, email, currency, `currency code`) values (9, 'Sweden', 'SE', 'falison8@bbb.org', 'Krona', 'BG');
+insert into MOCK_DATA (id, country, `country code`, email, currency, `currency code`) values (10, 'Brazil', 'BR', 'cpiers9@wikia.com', 'Real', 'PL');
